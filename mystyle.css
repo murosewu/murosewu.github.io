@@ -1,0 +1,55 @@
+
+
+heder{
+    background-color:aqua ;
+    padding: 20px;
+    margin: 20px;
+    border: thick double #32a1ce;
+}
+
+main{
+    background-color:red;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+
+section{
+    background-color:aquamarine;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px 5px 10px 5px;
+    border: 0.5rem solid;
+    border-top-color:hotpink;
+writing-mode: horizontal-tb;
+
+}
+
+footer{
+    background-color:aliceblue;
+    padding: 20px;
+    margin: 10px;
+    border: 4mm ridge rgba(211, 220, 50, 0.6);
+}
+
+h1{
+    color:gold;
+    background-color:black;
+    border-radius: 20px;
+    padding:10px;
+    margin: 1px;
+}
+
+h2{
+    color:black;
+    background-color:hotpink;
+    border-radius: 20px;
+}
+
+h4{
+    color:hotpink;
+
+}
+p{
+    color:black;
+}
